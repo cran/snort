@@ -1,0 +1,14 @@
+594509b68aaccfae8cff60671725c19e *DESCRIPTION
+0647e71c340524a9ecee1e369ede7e69 *LICENSE
+25793e25d7514b30c1beb9b84836c05e *NAMESPACE
+dd78a9ac79f54553be7200b454bcc9af *R/snort.r
+0824cb86fb9060f4f58f12a9ee8445bd *inst/extdata/sample_ccl_spec.csv
+6641461346387b0a66789651fd68e222 *inst/extdata/sample_delegates_2004.csv
+bbf6bc642991181683c4834d472c2db6 *inst/extdata/sample_delegates_2005.csv
+b56bbde624e3e25d58be14c793e1a858 *inst/extdata/sample_t&c_spec.csv
+e00d3b70af8e834ec4d5406b9a8eabe2 *man/snort-internal.Rd
+f415e777e7db8a358e813bf721e4f96f *man/snort-package.Rd
+dad3217c6afc2699f51fa568893d3d1e *man/snort-sample_data.Rd
+ffc151baa84c2d763628ab88c92f1974 *man/snort.3dgraphics.Rd
+e7b027f9cd2700328b5f2c82914dac5e *man/snort.generate_all.Rd
+79429be097447b2a34b0ce4c3ee8d8f9 *man/snort.generate_collapsed.Rd
